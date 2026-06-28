@@ -31,7 +31,7 @@ main:
     conference: Technical Report
     pdf: https://arxiv.org/abs/2604.17091
     code: https://github.com/lsdefine/GenericAgent
-    image: ./assets/img/genericagent-teaser.png
+    image: ./assets/img/genericagent-teaser-v2.png
 
   - title: "ADaPT: Token-Level Decoupling for Efficient Large Reasoning Models"
     authors: Tingyun li*, <strong>Zishang Jiang*</strong>, Jinyi Han, Xinyi Wang, Sihang Jiang, Han Xia, Zhaoqian Dai, Ma Shuguang, Fei Yu, Jiaqing Liang, Yanghua Xiao <strong>(*Equal contribution)</strong>
