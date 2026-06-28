@@ -7,3 +7,52 @@ main:
     pdf: assets/files/hpo.pdf
     code: https://github.com/Jiangzs1028/hpo
     image: ./assets/img/hpo-teaser.png
+
+  - title: "Selective Expert Guidance for Effective and Diverse Exploration in Reinforcement Learning of LLMs"
+    authors: <strong>Zishang Jiang</strong>, Jinyi_Han, Tingyun li, Xinyi Wang, Sihang Jiang, Zhaoqian Dai, Ma Shuguang, Fei Yu, Jiaqing Liang, Yanghua Xiao
+    conference_short: ICLR
+    conference: The 14th International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://openreview.net/pdf?id=axlFycAkoL
+    code: https://github.com/Jiangzs1028/mentor
+    image: ./assets/img/hpo-teaser.png
+
+  - title: "Difficulty Is Not Enough: Curriculum Learning for LLMs Fine-tuning Must Consider Utility"
+    authors: <strong>Zishang Jiang</strong>, Jinyi Han, Tingyun Li, Xinyi Wang, Sihang Jiang, Xiaojun Meng, Jiansheng Wei, Jiaqing Liang, Yanghua Xiao
+    conference_short: AAAI
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/40400/44361
+    code: https://github.com/Jiangzs1028/ducl
+    image: ./assets/img/hpo-teaser.png
+    notes: Oral presentation
+
+  - title: "ADaPT: Token-Level Decoupling for Efficient Large Reasoning Models"
+    authors: Tingyun li*, <strong>Zishang Jiang*</strong>, Jinyi Han, Xinyi Wang, Sihang Jiang, Han Xia, Zhaoqian Dai, Ma Shuguang, Fei Yu, Jiaqing Liang, Yanghua Xiao (*Equal contribution)
+    conference_short: ACL
+    conference: The 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2606.19919
+    code: https://github.com/SpongeBob-0715/ADaPT_Token_Level_Decoupling
+    image: ./assets/img/hpo-teaser.png
+
+  - title: "Don't Tell the Answer, Truly Guide the Reasoning During RL Rollouts"
+    authors: Xinyi Wang, Jinyi Han, <strong>Zishang Jiang*</strong>, tingyun li, Jiaqing Liang, Sihang Jiang, Zhaoqian Dai, Ma Shuguang, Fei Yu, Yanghua Xiao
+    conference_short: ACL
+    conference: The 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2510.09388
+    code: https://github.com/ViviqwerAsd/HINT
+    image: ./assets/img/hpo-teaser.png
+
+  - title: "Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking"
+    authors: Jinyi Han, Ying Huang, Ying Liao, Haiquan Zhao, <strong>Zishang Jiang*</strong>, Xinyi Wang, Xikun Lu, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao
+    conference_short: ICLR
+    conference: The 14th International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://openreview.net/attachment?id=2u5ZRzDyS0&name=pdf
+    code: https://github.com/JinyiHan99/Just-Enough-Think/
+    image: ./assets/img/hpo-teaser.png
+
+  - title: "A Stitch in Time Saves Nine: Proactive Self-Refinement for Language Models"
+    authors: Jinyi Han, Xinyi Wang, Haiquan Zhao, tingyun li, <strong>Zishang Jiang*</strong>, Sihang Jiang, Jiaqing Liang, Xin Alex Lin, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao
+    conference_short: ICLR
+    conference: The 14th International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://openreview.net/attachment?id=0GaCfBRFnf&name=pdf
+    code: https://github.com/JinyiHan99/Proactive-Self-Refine-in-LLMs/
+    image: ./assets/img/hpo-teaser.png
