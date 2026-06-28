@@ -25,6 +25,14 @@ main:
     image: ./assets/img/ducl-teaser.png
     notes: Oral presentation
 
+  - title: "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization"
+    authors: Jiaqing Liang, Jinyi Han, Weijia Li, Xinyi Wang, Zhoujia Zhang, <strong>Zishang Jiang</strong>, Ying Liao, Tingyun Li, Ying Huang, Hao Shen, Hanyu Wu, Fang Guo, Keyi Wang, Zhonghua Hong, Zhiyu Lu, Lipeng Ma, Sihang Jiang, Yanghua Xiao
+    conference_short: Tech Report
+    conference: Technical Report
+    pdf: https://arxiv.org/abs/2604.17091
+    code: https://github.com/lsdefine/GenericAgent
+    image: ./assets/img/genericagent-teaser.png
+
   - title: "ADaPT: Token-Level Decoupling for Efficient Large Reasoning Models"
     authors: Tingyun li*, <strong>Zishang Jiang*</strong>, Jinyi Han, Xinyi Wang, Sihang Jiang, Han Xia, Zhaoqian Dai, Ma Shuguang, Fei Yu, Jiaqing Liang, Yanghua Xiao <strong>(*Equal contribution)</strong>
     conference_short: ACL
