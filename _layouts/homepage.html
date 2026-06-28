@@ -53,11 +53,8 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
-        {% endif %}
 
-        <br>
+        {% if site.google_scholar or site.cv_link or site.github_link or site.linkedin or site.twitter %}
         <br>
         <div class="social-icons">
         {% if site.google_scholar %}
@@ -90,8 +87,9 @@
         </a>
         {% endif %}
         </div>
+        {% endif %}
         {% if site.fudan_logo %}
-        <div style="margin-top:12px;">
+        <div style="margin-top:10px;">
           {% if site.fudan_logo_link %}
           <a href="{{ site.fudan_logo_link }}" rel="noopener">
           {% endif %}
@@ -99,6 +97,11 @@
           {% if site.fudan_logo_link %}
           </a>
           {% endif %}
+        </div>
+        {% endif %}
+        {% if site.email %}
+        <div style="margin-top:4px;">
+          <email>{{ site.email }}</email>
         </div>
         {% endif %}
         <br>
