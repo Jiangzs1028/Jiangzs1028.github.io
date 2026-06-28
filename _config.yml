@@ -1,7 +1,7 @@
 # Basic Information 
 title: Jiang Zishang
 position: M.Sc. Student
-affiliation: Fudan University
+affiliation: School of Data Science<br>Fudan University
 affiliation_link: https://www.fudan.edu.cn/en/
 
 # Search Engine Optimization (SEO)
@@ -17,6 +17,8 @@ github_link: https://github.com/Jiangzs1028
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.jpg
+fudan_logo: ./assets/img/fudan-logo.png
+fudan_logo_link: https://www.fudan.edu.cn/en/
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 

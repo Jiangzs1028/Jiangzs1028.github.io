@@ -90,6 +90,17 @@
         </a>
         {% endif %}
         </div>
+        {% if site.fudan_logo %}
+        <div style="margin-top:12px;">
+          {% if site.fudan_logo_link %}
+          <a href="{{ site.fudan_logo_link }}" rel="noopener">
+          {% endif %}
+            <img src="{{ site.fudan_logo }}" alt="Fudan University logo" style="width:130px;max-width:80%;height:auto;" />
+          {% if site.fudan_logo_link %}
+          </a>
+          {% endif %}
+        </div>
+        {% endif %}
         <br>
 
       </header>
