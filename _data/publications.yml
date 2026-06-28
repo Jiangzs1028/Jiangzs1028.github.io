@@ -25,13 +25,6 @@ main:
     image: ./assets/img/ducl-teaser.png
     notes: Oral presentation
 
-  - title: "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization"
-    authors: Jiaqing Liang, Jinyi Han, Weijia Li, Xinyi Wang, Zhoujia Zhang, <strong>Zishang Jiang</strong>, Ying Liao, Tingyun Li, Ying Huang, Hao Shen, Hanyu Wu, Fang Guo, Keyi Wang, Zhonghua Hong, Zhiyu Lu, Lipeng Ma, Sihang Jiang, Yanghua Xiao
-    conference_short: Tech Report
-    conference: Technical Report
-    pdf: https://arxiv.org/abs/2604.17091
-    code: https://github.com/lsdefine/GenericAgent
-    image: ./assets/img/genericagent-teaser-v2.png
 
   - title: "ADaPT: Token-Level Decoupling for Efficient Large Reasoning Models"
     authors: Tingyun li*, <strong>Zishang Jiang*</strong>, Jinyi Han, Xinyi Wang, Sihang Jiang, Han Xia, Zhaoqian Dai, Ma Shuguang, Fei Yu, Jiaqing Liang, Yanghua Xiao <strong>(*Equal contribution)</strong>
@@ -40,6 +33,14 @@ main:
     pdf: https://arxiv.org/pdf/2606.19919
     code: https://github.com/SpongeBob-0715/ADaPT_Token_Level_Decoupling
     image: ./assets/img/adapt-teaser.png
+
+  - title: "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization"
+    authors: Jiaqing Liang, Jinyi Han, Weijia Li, Xinyi Wang, Zhoujia Zhang, <strong>Zishang Jiang</strong>, Ying Liao, Tingyun Li, Ying Huang, Hao Shen, Hanyu Wu, Fang Guo, Keyi Wang, Zhonghua Hong, Zhiyu Lu, Lipeng Ma, Sihang Jiang, Yanghua Xiao
+    conference_short: Tech Report
+    conference: Technical Report
+    pdf: https://arxiv.org/abs/2604.17091
+    code: https://github.com/lsdefine/GenericAgent
+    image: ./assets/img/genericagent-teaser-v2.png
 
   - title: "Don't Tell the Answer, Truly Guide the Reasoning During RL Rollouts"
     authors: Xinyi Wang, Jinyi Han, <strong>Zishang Jiang</strong>, tingyun li, Jiaqing Liang, Sihang Jiang, Zhaoqian Dai, Ma Shuguang, Fei Yu, Yanghua Xiao

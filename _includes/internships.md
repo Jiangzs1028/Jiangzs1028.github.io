@@ -7,7 +7,7 @@
 <div class="internship-row" style="margin: 0 0 24px;">
   {% if item.logo %}
   <div style="margin-bottom: 6px;">
-    <img src="{{ item.logo }}" alt="{{ item.company }} logo" style="max-height: 46px; max-width: 300px; width: auto; height: auto;">
+    <img src="{{ item.logo }}" alt="{{ item.company }} logo" style="max-height: 28px; max-width: 180px; width: auto; height: auto;">
   </div>
   {% endif %}
   <div style="font-size: 1.05rem; font-weight: 600; color: #666; line-height: 1.45;">
