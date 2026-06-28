@@ -18,10 +18,10 @@ I am currently a T-Star Talent Program intern at Alibaba Group, focusing on rese
 
 - **[2026-05]** One paper about agentic rl is accepted to **ICML 2026**.
 - **[2026-03]** Two papers are accepted to **ACL 2026**.
-- **[2026-03]** Released GenericAgent, a self-evolving autonomous agent, check out our [Technical Report](https://arxiv.org/abs/2604.17091).
+- **[2026-03]** Released **GenericAgent**, a self-evolving autonomous agent, check out our [Technical Report](https://arxiv.org/abs/2604.17091).
 - **[2026-01]** Three papers are accepted to **ICLR 2026**.
-- **[2025-11]** One paper about data evaluation is accepted to **AAAI 2026** and selected for an **oral presentation**！
-- **[2025-03]** Released Simple-GRPO, a lightweight open-source library integrating multiple RL algorithms and Agentic RL. Check our [project](https://github.com/lsdefine/simple_GRPO).
+- **[2025-11]** One paper about data evaluation is accepted to **AAAI 2026** and selected for an **oral presentation**!
+- **[2025-03]** Released **Simple-GRPO**, a lightweight open-source library integrating multiple RL algorithms and Agentic RL. Check our [project](https://github.com/lsdefine/simple_GRPO).
 
 {% include_relative _includes/publications.md %}
 
