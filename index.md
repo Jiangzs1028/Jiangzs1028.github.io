@@ -26,5 +26,3 @@ I am currently a T-Star Talent Program intern at Alibaba Group, focusing on rese
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/internships.md %}
-
-{% include_relative _includes/services.md %}
