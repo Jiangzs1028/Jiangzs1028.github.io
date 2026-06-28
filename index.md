@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a second-year master’s student at the School of Data Science, Fudan University, and a member of the Shanghai Key Laboratory of Data Science. I am advised by Professor Jiaqing Liang and Professor Yanghua Xiao.
 
-I am currently a T-Star Talent Program intern at Alibaba Group, focusing on research in Agentic Reinforcement Learning. Previously, I worked as a research intern at Tencent and ByteDance. I have published over 7 papers in top-tier artificial intelligence conferences and journals (4 first-author papers), including ICML, ICLR, ACL, and AAAI.
+I am currently a T-Star Talent Program intern at Alibaba Group, focusing on research in Agentic Reinforcement Learning. Previously, I worked as a research intern at Tencent and ByteDance. I have published over <strong>7 papers</strong> in top-tier artificial intelligence conferences and journals (<strong>4 first-author papers</strong>), including ICML, ICLR, ACL, and AAAI.
 
 ## Research Interests
 
