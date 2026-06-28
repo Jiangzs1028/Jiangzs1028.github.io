@@ -34,7 +34,7 @@ main:
     image: ./assets/img/adapt-teaser.png
 
   - title: "Don't Tell the Answer, Truly Guide the Reasoning During RL Rollouts"
-    authors: Xinyi Wang, Jinyi Han, <strong>Zishang Jiang*</strong>, tingyun li, Jiaqing Liang, Sihang Jiang, Zhaoqian Dai, Ma Shuguang, Fei Yu, Yanghua Xiao
+    authors: Xinyi Wang, Jinyi Han, <strong>Zishang Jiang</strong>, tingyun li, Jiaqing Liang, Sihang Jiang, Zhaoqian Dai, Ma Shuguang, Fei Yu, Yanghua Xiao
     conference_short: ACL
     conference: The 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2510.09388
@@ -42,7 +42,7 @@ main:
     image: ./assets/img/hint-teaser.png
 
   - title: "Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking"
-    authors: Jinyi Han, Ying Huang, Ying Liao, <strong>Zishang Jiang*</strong>, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao
+    authors: Jinyi Han, Ying Huang, Ying Liao, <strong>Zishang Jiang</strong>, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao
     conference_short: ICLR
     conference: The 14th International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://openreview.net/attachment?id=2u5ZRzDyS0&name=pdf
@@ -50,7 +50,7 @@ main:
     image: ./assets/img/stop-overthinking-teaser.png
 
   - title: "A Stitch in Time Saves Nine: Proactive Self-Refinement for Language Models"
-    authors: Jinyi Han, Xinyi Wang, Haiquan Zhao, tingyun li, <strong>Zishang Jiang*</strong>, Sihang Jiang, Jiaqing Liang, Xin Alex Lin, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao
+    authors: Jinyi Han, Xinyi Wang, Haiquan Zhao, tingyun li, <strong>Zishang Jiang</strong>, Sihang Jiang, Jiaqing Liang, Xin Alex Lin, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao
     conference_short: ICLR
     conference: The 14th International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://openreview.net/attachment?id=0GaCfBRFnf&name=pdf
