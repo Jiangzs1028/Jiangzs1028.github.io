@@ -1,0 +1,16 @@
+main:
+
+  - company: Alibaba
+    logo: ./assets/img/alibaba-logo.png
+    time: "TODO: fill time"
+    description: "TODO: fill content"
+
+  - company: Tencent
+    logo: ./assets/img/tencent-logo.png
+    time: "TODO: fill time"
+    description: "TODO: fill content"
+
+  - company: ByteDance
+    logo: ./assets/img/bytedance-logo.png
+    time: "TODO: fill time"
+    description: "TODO: fill content"
