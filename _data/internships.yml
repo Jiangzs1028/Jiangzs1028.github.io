@@ -2,15 +2,15 @@ main:
 
   - company: Alibaba
     logo: ./assets/img/alibaba-logo.png
-    time: "TODO: fill time"
-    description: "TODO: fill content"
+    time: "2026.05~Present"
+    description: "Alibaba, Taobao and Tmall Group, <strong>T-star</strong> Research Intern"
 
   - company: Tencent
     logo: ./assets/img/tencent-logo.png
-    time: "TODO: fill time"
-    description: "TODO: fill content"
+    time: "2026.01~2026.05"
+    description: "Tencent, Youtu Lab, Research Intern"
 
   - company: ByteDance
     logo: ./assets/img/bytedance-logo.png
-    time: "TODO: fill time"
-    description: "TODO: fill content"
+    time: "2025.6~2025.12"
+    description: "ByteDance, Data, Research Intern"

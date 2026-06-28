@@ -26,7 +26,7 @@ main:
     notes: Oral presentation
 
   - title: "ADaPT: Token-Level Decoupling for Efficient Large Reasoning Models"
-    authors: Tingyun li*, <strong>Zishang Jiang*</strong>, Jinyi Han, Xinyi Wang, Sihang Jiang, Han Xia, Zhaoqian Dai, Ma Shuguang, Fei Yu, Jiaqing Liang, Yanghua Xiao (*Equal contribution)
+    authors: Tingyun li*, <strong>Zishang Jiang*</strong>, Jinyi Han, Xinyi Wang, Sihang Jiang, Han Xia, Zhaoqian Dai, Ma Shuguang, Fei Yu, Jiaqing Liang, Yanghua Xiao <strong>(*Equal contribution)</strong>
     conference_short: ACL
     conference: The 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2606.19919
