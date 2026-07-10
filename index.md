@@ -12,7 +12,7 @@ I am currently a T-Star Talent Program intern at Alibaba Group, focusing on rese
 
 - **Reasoning Model:** Enhancing the deep reasoning capabilities of LLMs and VLMs through data synthesis, data evaluation, and optimized training algorithms.
 - **Reinforcement Learning:** Improving model reasoning, preference alignment, and tool-use capabilities through RL algorithm optimization and reward modeling.
-- **Language Agent:** Building language agents with autonomous decision-making and continual self-evolution through Agentic RL and harness design.
+- **General Agent:** Building general agents with autonomous decision-making and continual self-evolution through Agentic RL and harness design.
 
 ## News
 
