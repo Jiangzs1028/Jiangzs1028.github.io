@@ -10,9 +10,9 @@ I am currently a T-Star Talent Program intern at Alibaba Group, focusing on rese
 
 ## Research Interests
 
-- **Agentic Reinforcement Learning:** Training general agent intelligence via fundamental RL-based optimization
-- **Agent Harness Engineering:** Building stronger scaffolds to fully unlock LLM agent capabilities and enable agent self-evolution
-- **Agentic Reward Model:** Building intelligent reward models that integrate verifiable rewards, LLM-as-a-Judge, and rubrics for agent evaluation and training
+- **Reasoning Model:** Enhancing the deep reasoning capabilities of LLMs and VLMs through data synthesis, data evaluation, and optimized training algorithms.
+- **Reinforcement Learning:** Improving model reasoning, preference alignment, and tool-use capabilities through RL algorithm optimization and reward modeling.
+- **Language Agent:** Building language agents with autonomous decision-making and continual self-evolution through Agentic RL and harness design.
 
 ## News
 
